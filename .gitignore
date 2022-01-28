@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode
+
+# SAM
+.aws-sam
+
+# Misc
+.envrc
