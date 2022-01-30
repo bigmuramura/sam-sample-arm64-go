@@ -9,7 +9,7 @@ Globals:
     Timeout: 5
 
 Resources:
-  HelloWorldFunction:
+  HelloWorldFunction: # Makefile 内でここの名前を指定する必要がある
     Type: AWS::Serverless::Function
     Properties:
       CodeUri: hello-world/
